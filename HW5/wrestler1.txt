@@ -1,0 +1,13 @@
+5
+Ace
+Duke
+Jax
+Biggs
+Stone
+6
+Ace Duke
+Ace Biggs
+Jax Duke
+Stone Biggs
+Stone Duke
+Biggs Jax
